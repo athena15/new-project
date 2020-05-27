@@ -9,3 +9,5 @@ import databricks.koalas as ks
 
 # COMMAND ----------
 
+x = 5
+print(x)
