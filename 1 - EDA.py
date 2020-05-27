@@ -11,3 +11,7 @@ import databricks.koalas as ks
 
 x = 5
 print(x)
+
+# COMMAND ----------
+
+y = 10
