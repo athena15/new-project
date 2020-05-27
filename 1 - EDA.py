@@ -14,8 +14,8 @@ print(x)
 
 # COMMAND ----------
 
-y = 10
-z = 20
+y = 50
+z = 100
 print(y+z)
 
 # COMMAND ----------
