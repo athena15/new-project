@@ -15,3 +15,7 @@ print(x)
 # COMMAND ----------
 
 y = 10
+
+# COMMAND ----------
+
+z = 15
