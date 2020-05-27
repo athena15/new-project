@@ -20,3 +20,5 @@ print(y+z)
 
 # COMMAND ----------
 
+a = 2
+b = 3
