@@ -15,4 +15,3 @@ print(x)
 # COMMAND ----------
 
 y = 10
-
