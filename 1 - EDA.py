@@ -37,11 +37,3 @@ df.dtypes
 # COMMAND ----------
 
 df.columns
-
-# COMMAND ----------
-
-print("Here's a new change!")
-print("here's another one!")
-
-# COMMAND ----------
-
