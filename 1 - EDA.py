@@ -22,3 +22,7 @@ print(y+z)
 
 a = 2
 b = 3
+c = 5
+
+# COMMAND ----------
+
