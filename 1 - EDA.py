@@ -34,3 +34,5 @@ df.value_counts()
 df.dtypes
 
 # COMMAND ----------
+
+df.columns
