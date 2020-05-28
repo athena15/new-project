@@ -28,6 +28,7 @@ d = 10
 # COMMAND ----------
 
 print('This is a change!')
+print('This is another change!')
 
 # COMMAND ----------
 
