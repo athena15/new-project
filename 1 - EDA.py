@@ -6,13 +6,27 @@
 import pandas as pd
 import numpy as np
 import databricks.koalas as ks
+import matplotlib.style as style
+style.use('seaborn-whitegrid')
 
 # COMMAND ----------
 
-x = 5
-print(x)
+df = ks.read_csv('dbfs:/tmp/wine_data.csv')
 
 # COMMAND ----------
 
-y = 10
+df.info()
 
+# COMMAND ----------
+
+df.columns
+
+# COMMAND ----------
+
+df[['quality', 'vintage']].astype('int', inplace=True)
+
+# COMMAND ----------
+
+df.value_counts()
+
+# COMMAND ----------
