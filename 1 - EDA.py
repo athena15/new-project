@@ -29,6 +29,7 @@ d = 10
 
 print('This is a change!')
 print('This is another change!')
+print("And finally, a third change!")
 
 # COMMAND ----------
 
