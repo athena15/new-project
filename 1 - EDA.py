@@ -30,3 +30,7 @@ df[['quality', 'vintage']].astype('int', inplace=True)
 df.value_counts()
 
 # COMMAND ----------
+
+df.dtypes
+
+# COMMAND ----------
