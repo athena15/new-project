@@ -6,3 +6,4 @@ import pandas as pd
 
 x = 5
 y = 6
+z = 10
