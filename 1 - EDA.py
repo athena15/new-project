@@ -37,3 +37,6 @@ df.dtypes
 # COMMAND ----------
 
 df.columns
+
+# COMMAND ----------
+
