@@ -7,3 +7,7 @@ def get_data(df):
     cols = df["quality", "vintage"]
     df['quality_2'] = int(df['quality'] ** 2)
     return df
+
+# COMMAND ----------
+
+print('Hello out there!')
