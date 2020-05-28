@@ -31,4 +31,5 @@ print('This is a change!')
 print('This is another change!')
 
 # COMMAND ----------
-
+def squared(x):
+  return x **2
