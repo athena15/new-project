@@ -5,6 +5,7 @@
 
 import pandas as pd
 import numpy as np
+# noinspection PyUnresolvedReferences
 import databricks.koalas as ks
 import matplotlib.style as style
 style.use('seaborn-whitegrid')
@@ -35,7 +36,7 @@ df.dtypes
 
 # COMMAND ----------
 
-print("This is a new change!")
+print("This is a new change from a colleague!")
 
 # COMMAND ----------
 
