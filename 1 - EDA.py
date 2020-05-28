@@ -35,4 +35,7 @@ df.dtypes
 
 # COMMAND ----------
 
+print("This is a new change!")
+
+# COMMAND ----------
 df.columns
